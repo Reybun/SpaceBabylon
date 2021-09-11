@@ -1,0 +1,154 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "astro-body",
+			"id": "a091b1ed-5561-4576-b5ea-c74ad8ceb679",
+			"uniqueId": 21,
+			"type": "Mesh",
+			"position": [
+				0,
+				0,
+				0
+			],
+			"rotationQuaternion": [
+				-0.7071067811865475,
+				0,
+				0,
+				0.7071067811865476
+			],
+			"scaling": [
+				10,
+				10,
+				10
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": null,
+			"isUnIndexed": false,
+			"geometryId": "c8369394-9f75-449b-97b7-fa17dd44ab85",
+			"subMeshes": null,
+			"materialId": "210eac1b-8ba7-4175-8903-cac419053e27",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": 1,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 1,
+					"6": 0,
+					"7": 0,
+					"8": 0,
+					"9": 0,
+					"10": 1,
+					"11": 0,
+					"12": 0,
+					"13": 0,
+					"14": 0,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "Model::UpperBody.001",
+					"name": "Model::UpperBody.001",
+					"sceneFileName": "Chainsawman.fbx"
+				},
+				"isPickable": true,
+				"script": {
+					"name": "None"
+				},
+				"renderingGroupId": 0,
+				"doNotExport": false,
+				"isLocked": true
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.3,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/c8369394-9f75-449b-97b7-fa17dd44ab85.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				2.9872376918792725,
+				1.1781997680664062,
+				8.763306617736816
+			],
+			"boundingBoxMinimum": [
+				-20.41346549987793,
+				-1.6549791097640991,
+				3.644953966140747
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 1504800,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 1504800,
+					"stride": 3,
+					"offset": 6019200,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 1003200,
+					"stride": 2,
+					"offset": 12038400,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 501600,
+					"stride": 1,
+					"offset": 16051200,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 18057600,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

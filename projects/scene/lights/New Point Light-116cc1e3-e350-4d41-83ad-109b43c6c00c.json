@@ -1,0 +1,41 @@
+{
+	"tags": null,
+	"shadowAngle": 1.5707963267948966,
+	"diffuse": [
+		1,
+		1,
+		1
+	],
+	"specular": [
+		1,
+		1,
+		1
+	],
+	"falloffType": 0,
+	"intensity": 3,
+	"range": 2000,
+	"intensityMode": 0,
+	"radius": 0,
+	"_renderPriority": 0,
+	"shadowEnabled": true,
+	"excludeWithLayerMask": 0,
+	"includeOnlyWithLayerMask": 0,
+	"lightmapMode": 0,
+	"position": [
+		0,
+		630.3023071289062,
+		-200
+	],
+	"name": "New Point Light",
+	"id": "116cc1e3-e350-4d41-83ad-109b43c6c00c",
+	"state": "",
+	"metadata": {
+		"script": {
+			"name": "None"
+		},
+		"doNotExport": false
+	},
+	"type": 0,
+	"animations": [],
+	"ranges": []
+}

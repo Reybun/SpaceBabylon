@@ -1,0 +1,154 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "astro-bag",
+			"id": "b924e17b-f47d-4893-9a02-0b252fac7568",
+			"uniqueId": 15,
+			"type": "Mesh",
+			"position": [
+				0,
+				0,
+				0
+			],
+			"rotationQuaternion": [
+				-0.7071067811865475,
+				0,
+				0,
+				0.7071067811865476
+			],
+			"scaling": [
+				10,
+				10,
+				10
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": null,
+			"isUnIndexed": false,
+			"geometryId": "4351caaa-e5c8-444c-bec4-bf1e35a19065",
+			"subMeshes": null,
+			"materialId": "29764012-cf1c-4348-b297-af51d7aa6c1e",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": 1,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 1,
+					"6": 0,
+					"7": 0,
+					"8": 0,
+					"9": 0,
+					"10": 1,
+					"11": 0,
+					"12": 0,
+					"13": 0,
+					"14": 0,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "Model::Accesories.001",
+					"name": "Model::Accesories.001",
+					"sceneFileName": "Chainsawman.fbx"
+				},
+				"isPickable": true,
+				"script": {
+					"name": "None"
+				},
+				"renderingGroupId": 0,
+				"doNotExport": false,
+				"isLocked": true
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.3,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/4351caaa-e5c8-444c-bec4-bf1e35a19065.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				1.6828449964523315,
+				2.252744197845459,
+				8.649040222167969
+			],
+			"boundingBoxMinimum": [
+				-19.350988388061523,
+				-1.0496876239776611,
+				3.881187677383423
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 193536,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 193536,
+					"stride": 3,
+					"offset": 774144,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 129024,
+					"stride": 2,
+					"offset": 1548288,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 64512,
+					"stride": 1,
+					"offset": 2064384,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 2322432,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}
