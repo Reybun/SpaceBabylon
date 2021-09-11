@@ -1,0 +1,152 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "SKULL",
+			"id": "e399342a-19ff-44f7-b0f8-4588da75442d",
+			"uniqueId": 17,
+			"type": "Mesh",
+			"position": [
+				32.554195404052734,
+				125.88875579833984,
+				853.115966796875
+			],
+			"rotation": [
+				-0.8446098011228705,
+				-0.8019962254282393,
+				-0.864670671792733
+			],
+			"scaling": [
+				2.0000001651337893,
+				2.0000001774249934,
+				2.000000169697346
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": null,
+			"isUnIndexed": false,
+			"geometryId": "0afefd07-4f5a-4aa1-934e-fd7433788288",
+			"subMeshes": null,
+			"materialId": "2a983d82-0f74-4e08-bfbe-41644ac32075",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": 1,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 1,
+					"6": 0,
+					"7": 0,
+					"8": 0,
+					"9": 0,
+					"10": 1,
+					"11": 0,
+					"12": 0,
+					"13": 0,
+					"14": 0,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "mesh_mm1",
+					"name": "mesh_mm1",
+					"sceneFileName": "NHMW-Anth-5454_Mladeč-Skull_low res_2.obj"
+				},
+				"isPickable": true,
+				"script": {
+					"name": "None"
+				},
+				"renderingGroupId": 0,
+				"doNotExport": false
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.3,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/0afefd07-4f5a-4aa1-934e-fd7433788288.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				99.8822250366211,
+				53.13971710205078,
+				35.59276580810547
+			],
+			"boundingBoxMinimum": [
+				-100.64368438720703,
+				-111.05541229248047,
+				-142.57504272460938
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 854757,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 854757,
+					"stride": 3,
+					"offset": 3419028,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 569838,
+					"stride": 2,
+					"offset": 6838056,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 593421,
+					"stride": 1,
+					"offset": 9117408,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 11491092,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

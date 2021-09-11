@@ -1,0 +1,489 @@
+{
+	"filesList": [
+		"Bump_2K.png",
+		"Diffuse_2K.png",
+		"8k_sun.jpg",
+		"space.jpg",
+		"space2.jpg",
+		"8k_saturn.jpg",
+		"8k_saturn_clouds_blur.png",
+		"8k_saturn_ring_alpha.png",
+		"Astronaut_Body.png",
+		"Astronaut_Misc.png",
+		"Grass.png",
+		"NHMW-Anth-5454_Mladeč-Skull_low res_2_1.png",
+		"DystopianWastelandDirt_albedo.png",
+		"DystopianWastelandDirt_ambientocclusion.png",
+		"DystopianWastelandDirt_emissive.png",
+		"DystopianWastelandDirt_height.png",
+		"DystopianWastelandDirt_normal.png",
+		"DystopianWastelandDirt_opacity.png",
+		"DystopianWastelandDirt_specular.png"
+	],
+	"cameras": [
+		"camera-05e93a47-ec25-41ad-a1df-16f279c32246.json"
+	],
+	"materials": [
+		{
+			"bindedMeshes": [
+				"78908960-e0b1-4aa9-84a5-cd3fc2c19a6e"
+			],
+			"json": "saturn-ea7a1653-06b7-4425-b26b-729f07fdfb0f.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"bb3c9378-d7f2-46b5-b470-f5dff916ccd7"
+			],
+			"json": "space-81e1ffda-7946-4184-bff1-05f41ac06375.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"5390d5c8-3391-4f8c-826e-ea72e96484ba"
+			],
+			"json": "clouds-f1c0f721-56c5-40de-8f06-981dc5a90f7e.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"8d4548da-18bb-4c5f-a74c-ec9e6b80b5e8"
+			],
+			"json": "ring-21b47da9-9acf-44ce-b2f8-158ccfd62fd9.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"441d25a7-d9c2-4c32-9e94-8129a0cff4cc",
+				"e399342a-19ff-44f7-b0f8-4588da75442d"
+			],
+			"json": "moon2-2a983d82-0f74-4e08-bfbe-41644ac32075.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"11480479-a047-4a08-b5a6-29854b3bc096"
+			],
+			"json": "Material!Material-9e20cd66-2b99-41c5-ac4d-8b3457ba3e72.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"709e3ee1-7378-48d2-9fe0-c5e4298d218f"
+			],
+			"json": "Material!Ground-f671e442-65e3-469a-93f4-4b2e3ab89d02.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [],
+			"json": "sky-8061af8b-2e91-4877-85fa-cc21deb99cf9.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"1f3f5a2a-6530-4a2f-b1e6-35b7f94c6e35"
+			],
+			"json": "shadow-71acc804-66c0-41ee-a87a-685e34c0385b.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"b924e17b-f47d-4893-9a02-0b252fac7568"
+			],
+			"json": "astro-bag-29764012-cf1c-4348-b297-af51d7aa6c1e.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [],
+			"json": "wasterlanbd-14b6c480-bace-4c42-923b-7109e3bdc2e8.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"4dfac285-4b2a-4ced-9339-0e467a808a0b"
+			],
+			"json": "Material!HelmetGlass-260a33c5-8c35-4051-b884-d6b7e9010d0e.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"a091b1ed-5561-4576-b5ea-c74ad8ceb679"
+			],
+			"json": "Material!Material-210eac1b-8ba7-4175-8903-cac419053e27.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"6800218a-2afb-494b-a02b-bfe9aa95c287"
+			],
+			"json": "Moon-3dfed8b4-00a8-4d27-89a6-ae045af2458b.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"6456a7f9-9851-45c2-bb60-06c0c0b91570"
+			],
+			"json": "Material!Grass-3b869aab-e0f8-4523-a91e-f3937b42c970.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [],
+			"json": "ground-44ce4d7a-5718-4025-a141-272ee6387673.json",
+			"isMultiMaterial": false
+		}
+	],
+	"textures": [
+		"space2.jpg-40.json",
+		"8k_saturn.jpg-38.json",
+		"8k_saturn_ring_alpha.png-43.json",
+		"space.jpg-41.json",
+		"8k_saturn_clouds_blur.png-45.json",
+		"DystopianWastelandDirt_albedo.png-47.json",
+		"Bump_2K.png-58.json",
+		"Astronaut_Body.png-52.json",
+		"DystopianWastelandDirt_normal.png-48.json",
+		"NHMW-Anth-5454_Mladeč-Skull_low res_2_1.png-50.json",
+		"Grass.png-54.json",
+		"Diffuse_2K.png-57.json",
+		"DystopianWastelandDirt_height.png-64.json",
+		"Astronaut_Misc.png-62.json",
+		"DystopianWastelandDirt_emissive.png-65.json",
+		"DystopianWastelandDirt_specular.png-66.json",
+		"8k_sun.jpg-70.json",
+		"DystopianWastelandDirt_opacity.png-69.json",
+		"DystopianWastelandDirt_ambientocclusion.png-71.json"
+	],
+	"meshes": [
+		"Saturn Rings-8d4548da-18bb-4c5f-a74c-ec9e6b80b5e8.json",
+		"Sky-bb3c9378-d7f2-46b5-b470-f5dff916ccd7.json",
+		"Moon-441d25a7-d9c2-4c32-9e94-8129a0cff4cc.json",
+		"shadow-1f3f5a2a-6530-4a2f-b1e6-35b7f94c6e35.json",
+		"Moon2-6800218a-2afb-494b-a02b-bfe9aa95c287.json",
+		"Ground-709e3ee1-7378-48d2-9fe0-c5e4298d218f.json",
+		"Saturn-78908960-e0b1-4aa9-84a5-cd3fc2c19a6e.json",
+		"astro-glass-4dfac285-4b2a-4ced-9339-0e467a808a0b.json",
+		"astro-bag-b924e17b-f47d-4893-9a02-0b252fac7568.json",
+		"astro-legs-11480479-a047-4a08-b5a6-29854b3bc096.json",
+		"SKULL-e399342a-19ff-44f7-b0f8-4588da75442d.json",
+		"Saturn Clouds-5390d5c8-3391-4f8c-826e-ea72e96484ba.json",
+		"astro-body-a091b1ed-5561-4576-b5ea-c74ad8ceb679.json",
+		"Model!Plane.001-6456a7f9-9851-45c2-bb60-06c0c0b91570.json"
+	],
+	"transformNodes": [],
+	"particleSystems": [],
+	"lights": [
+		{
+			"json": "New Point Light-116cc1e3-e350-4d41-83ad-109b43c6c00c.json"
+		}
+	],
+	"sounds": [],
+	"morphTargetManagers": [],
+	"scene": {
+		"autoClear": false,
+		"clearColor": [
+			0.2,
+			0.2,
+			0.3,
+			1
+		],
+		"ambientColor": [
+			1,
+			1,
+			1
+		],
+		"gravity": [
+			0,
+			-9.807,
+			0
+		],
+		"collisionsEnabled": true,
+		"fogEnabled": true,
+		"physicsEnabled": true,
+		"physicsGravity": [
+			0,
+			0,
+			0
+		],
+		"physicsEngine": "CannonJSPlugin",
+		"imageProcessingConfiguration": {
+			"tags": null,
+			"colorCurves": {
+				"tags": null,
+				"_globalHue": 200,
+				"_globalDensity": 80,
+				"_globalSaturation": 80,
+				"_globalExposure": 0,
+				"_highlightsHue": 20,
+				"_highlightsDensity": 80,
+				"_highlightsSaturation": -80,
+				"_highlightsExposure": 0,
+				"_midtonesHue": 30,
+				"_midtonesDensity": 0,
+				"_midtonesSaturation": 0,
+				"_midtonesExposure": 0
+			},
+			"_colorCurvesEnabled": false,
+			"_colorGradingEnabled": false,
+			"_colorGradingWithGreenDepth": true,
+			"_colorGradingBGR": true,
+			"_exposure": 1,
+			"_toneMappingEnabled": false,
+			"_toneMappingType": 0,
+			"_contrast": 1,
+			"vignetteStretch": 0,
+			"vignetteCentreX": 0,
+			"vignetteCentreY": 0,
+			"vignetteWeight": 1.5,
+			"vignetteColor": [
+				0,
+				0,
+				0,
+				0
+			],
+			"vignetteCameraFov": 0.5,
+			"_vignetteBlendMode": 0,
+			"_vignetteEnabled": false,
+			"_applyByPostProcess": true,
+			"_isEnabled": true
+		},
+		"animations": [],
+		"postProcessesEnabled": true,
+		"metadata": {
+			"script": {
+				"name": "None"
+			},
+			"postProcesses": {
+				"ssao": {
+					"enabled": true,
+					"json": {
+						"tags": null,
+						"totalStrength": 2,
+						"maxZ": 1000,
+						"minZAspect": 0.2,
+						"samples": 32,
+						"textureSamples": 1,
+						"_ratio": {
+							"ssaoRatio": 0.5,
+							"blurRatio": 0.5
+						},
+						"expensiveBlur": false,
+						"radius": 1,
+						"base": 0,
+						"_name": "ssao",
+						"customType": "SSAO2RenderingPipeline"
+					}
+				},
+				"screenSpaceReflections": {
+					"enabled": false
+				},
+				"default": {
+					"enabled": true,
+					"json": {
+						"tags": null,
+						"sharpenEnabled": false,
+						"bloomKernel": 64,
+						"_bloomWeight": 0.15,
+						"_bloomThreshold": 0.9,
+						"_hdr": {},
+						"bloomWeight": 0.15,
+						"bloomThreshold": 0.9,
+						"bloomScale": 0.5,
+						"bloomEnabled": false,
+						"depthOfFieldEnabled": false,
+						"depthOfFieldBlurLevel": 0,
+						"fxaaEnabled": true,
+						"samples": 4,
+						"imageProcessingEnabled": true,
+						"glowLayerEnabled": false,
+						"chromaticAberrationEnabled": false,
+						"grainEnabled": false,
+						"_name": "default",
+						"customType": "DefaultRenderingPipeline"
+					}
+				},
+				"motionBlur": {
+					"enabled": false
+				}
+			}
+		},
+		"environmentIntensity": 1,
+		"sounds": []
+	},
+	"assets": {
+		"meshes": [
+			"Moon 2K.fbx",
+			"Saturn_LP.fbx",
+			"Chainsawman.fbx",
+			"NHMW-Anth-5454_Mladeč-Skull_low res_2.obj"
+		],
+		"prefabs": [],
+		"graphs": []
+	},
+	"project": {
+		"camera": {
+			"tags": "modified",
+			"alpha": -33.10762567940072,
+			"beta": 1.5576018681207515,
+			"radius": 290.03754900432904,
+			"target": [
+				238.5641217021731,
+				168.5642525630378,
+				-411.20259115231283
+			],
+			"inertialAlphaOffset": 0,
+			"inertialBetaOffset": 0,
+			"inertialRadiusOffset": 0,
+			"lowerBetaLimit": 0.01,
+			"upperBetaLimit": 3.1315926535897933,
+			"inertialPanningX": 0,
+			"inertialPanningY": 0,
+			"pinchToPanMaxDistance": 20,
+			"panningOriginTarget": [
+				0,
+				0,
+				0
+			],
+			"panningInertia": 0.9,
+			"zoomOnFactor": 1,
+			"targetScreenOffset": {
+				"x": 0,
+				"y": 0
+			},
+			"allowUpsideDown": true,
+			"useInputToRestoreState": true,
+			"rotation": [
+				0,
+				0,
+				0
+			],
+			"speed": 2,
+			"position": [
+				203.58617795998467,
+				172.39102997873857,
+				-699.0978482487394
+			],
+			"upVector": [
+				0,
+				1,
+				0
+			],
+			"fov": 0.8,
+			"minZ": 1,
+			"maxZ": 15000,
+			"inertia": 0.9,
+			"mode": 0,
+			"layerMask": 268435455,
+			"fovMode": 0,
+			"cameraRigMode": 0,
+			"name": "Editor Camera",
+			"id": "f3684fb1-6ae4-4cc0-8e94-ba283d86ec04",
+			"state": "",
+			"metadata": {
+				"script": {},
+				"detached": false
+			},
+			"type": "ArcRotateCamera",
+			"inputsmgr": {
+				"ArcRotateCameraKeyboardMoveInput": {
+					"tags": null,
+					"keysUp": [
+						38
+					],
+					"keysDown": [
+						40
+					],
+					"keysLeft": [
+						37
+					],
+					"keysRight": [
+						39
+					],
+					"keysReset": [
+						220
+					],
+					"panningSensibility": 50,
+					"zoomingSensibility": 25,
+					"useAltToZoom": true,
+					"angularSpeed": 0.01
+				},
+				"ArcRotateCameraMouseWheelInput": {
+					"tags": null,
+					"wheelPrecision": 30,
+					"wheelDeltaPercentage": 0
+				},
+				"ArcRotateCameraPointersInput": {
+					"tags": null,
+					"buttons": [
+						0,
+						1,
+						2
+					],
+					"angularSensibilityX": 1000,
+					"angularSensibilityY": 1000,
+					"pinchPrecision": 12,
+					"pinchDeltaPercentage": 0,
+					"useNaturalPinchZoom": false,
+					"panningSensibility": 3.447829439439492,
+					"multiTouchPanning": true,
+					"multiTouchPanAndZoom": true
+				}
+			},
+			"animations": [],
+			"ranges": []
+		}
+	},
+	"postProcesses": {
+		"ssao": {
+			"enabled": true,
+			"json": {
+				"tags": null,
+				"totalStrength": 2,
+				"maxZ": 1000,
+				"minZAspect": 0.2,
+				"samples": 32,
+				"textureSamples": 1,
+				"_ratio": {
+					"ssaoRatio": 0.5,
+					"blurRatio": 0.5
+				},
+				"expensiveBlur": false,
+				"radius": 1,
+				"base": 0,
+				"_name": "ssao",
+				"customType": "SSAO2RenderingPipeline"
+			}
+		},
+		"screenSpaceReflections": {
+			"enabled": false
+		},
+		"default": {
+			"enabled": true,
+			"json": {
+				"tags": null,
+				"sharpenEnabled": false,
+				"bloomKernel": 64,
+				"_bloomWeight": 0.15,
+				"_bloomThreshold": 0.9,
+				"_hdr": {},
+				"bloomWeight": 0.15,
+				"bloomThreshold": 0.9,
+				"bloomScale": 0.5,
+				"bloomEnabled": false,
+				"depthOfFieldEnabled": false,
+				"depthOfFieldBlurLevel": 0,
+				"fxaaEnabled": true,
+				"samples": 4,
+				"imageProcessingEnabled": true,
+				"glowLayerEnabled": false,
+				"chromaticAberrationEnabled": false,
+				"grainEnabled": false,
+				"_name": "default",
+				"customType": "DefaultRenderingPipeline"
+			}
+		},
+		"motionBlur": {
+			"enabled": false
+		}
+	},
+	"physicsEnabled": true
+}

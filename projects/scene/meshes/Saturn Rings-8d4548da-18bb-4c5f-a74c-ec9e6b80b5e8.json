@@ -1,0 +1,152 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "Saturn Rings",
+			"id": "8d4548da-18bb-4c5f-a74c-ec9e6b80b5e8",
+			"uniqueId": 8,
+			"type": "Mesh",
+			"position": [
+				-70,
+				615,
+				1111
+			],
+			"rotationQuaternion": [
+				-0.6201978972472435,
+				0.642141361853136,
+				-0.4422738291748036,
+				0.08604008853492043
+			],
+			"scaling": [
+				12.000014721210345,
+				12.000001134005528,
+				12.000007609856068
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 0.61,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": null,
+			"isUnIndexed": false,
+			"geometryId": "d948e9e9-0c06-4086-b18d-dbb343896ede",
+			"subMeshes": null,
+			"materialId": "21b47da9-9acf-44ce-b2f8-158ccfd62fd9",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": 1,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 1,
+					"6": 0,
+					"7": 0,
+					"8": 0,
+					"9": 0,
+					"10": 1,
+					"11": 0,
+					"12": 0,
+					"13": 0,
+					"14": 0,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "Model::Saturn Rings",
+					"name": "Model::Saturn Rings",
+					"sceneFileName": "Saturn_LP.fbx"
+				},
+				"isPickable": true,
+				"script": {
+					"name": "None"
+				},
+				"renderingGroupId": 1
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.3,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/d948e9e9-0c06-4086-b18d-dbb343896ede.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				11.20442008972168,
+				11.20442008972168,
+				0
+			],
+			"boundingBoxMinimum": [
+				-11.20442008972168,
+				-11.20442008972168,
+				0
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 2376,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 2376,
+					"stride": 3,
+					"offset": 9504,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 1584,
+					"stride": 2,
+					"offset": 19008,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 792,
+					"stride": 1,
+					"offset": 25344,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 28512,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

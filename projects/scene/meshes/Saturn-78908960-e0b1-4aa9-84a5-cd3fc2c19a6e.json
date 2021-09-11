@@ -1,0 +1,153 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "Saturn",
+			"id": "78908960-e0b1-4aa9-84a5-cd3fc2c19a6e",
+			"uniqueId": 16,
+			"type": "Mesh",
+			"position": [
+				-70,
+				615,
+				1111
+			],
+			"rotationQuaternion": [
+				0,
+				0,
+				0,
+				1
+			],
+			"scaling": [
+				10,
+				10,
+				10
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": null,
+			"isUnIndexed": false,
+			"geometryId": "11bb3d35-4e91-4997-9137-827799138e71",
+			"subMeshes": null,
+			"materialId": "ea7a1653-06b7-4425-b26b-729f07fdfb0f",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": 1,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 1,
+					"6": 0,
+					"7": 0,
+					"8": 0,
+					"9": 0,
+					"10": 1,
+					"11": 0,
+					"12": 0,
+					"13": 0,
+					"14": 0,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "Model::Saturn",
+					"name": "Model::Saturn",
+					"sceneFileName": "Saturn_LP.fbx"
+				},
+				"isPickable": true,
+				"script": {
+					"name": "None"
+				},
+				"renderingGroupId": 0,
+				"doNotExport": false
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.3,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/11bb3d35-4e91-4997-9137-827799138e71.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				5,
+				5,
+				5
+			],
+			"boundingBoxMinimum": [
+				-5,
+				-5,
+				-5
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 35712,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 35712,
+					"stride": 3,
+					"offset": 142848,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 23808,
+					"stride": 2,
+					"offset": 285696,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 11904,
+					"stride": 1,
+					"offset": 380928,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 428544,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}
