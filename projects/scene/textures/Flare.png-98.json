@@ -1,6 +1,6 @@
 {
 	"tags": null,
-	"url": "files/DystopianWastelandDirt_opacity.png",
+	"url": "files/Flare.png",
 	"uOffset": 0,
 	"vOffset": 0,
 	"uScale": 1,
@@ -13,14 +13,7 @@
 	"wRotationCenter": 0.5,
 	"homogeneousRotationInUVTransform": false,
 	"isBlocking": true,
-	"name": "files/DystopianWastelandDirt_opacity.png",
-	"metadata": {
-		"editorName": "DystopianWastelandDirt_opacity.png",
-		"editorId": "fe9a1a28-794e-4899-80cd-677f641f21c5",
-		"ktx2CompressedTextures": {
-			"isUsingCompressedTexture": false
-		}
-	},
+	"name": "files/Flare.png",
 	"hasAlpha": false,
 	"getAlphaFromRGB": false,
 	"level": 1,

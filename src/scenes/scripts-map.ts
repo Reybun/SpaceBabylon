@@ -5,6 +5,8 @@ import { ScriptMap } from "./tools";
  */
 export interface ISceneScriptMap extends ScriptMap {
 	"src/scenes/moon.ts": any;
+	"src/scenes/skull.ts": any;
+	"src/scenes/spin.ts": any;
 }
 
 /**
@@ -12,4 +14,6 @@ export interface ISceneScriptMap extends ScriptMap {
  */
 export const scriptsMap: ISceneScriptMap = {
 	"src/scenes/moon.ts": require("./moon"),
+	"src/scenes/skull.ts": require("./skull"),
+	"src/scenes/spin.ts": require("./spin"),
 }

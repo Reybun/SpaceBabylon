@@ -4,12 +4,12 @@
 		{
 			"name": "Moon2",
 			"id": "6800218a-2afb-494b-a02b-bfe9aa95c287",
-			"uniqueId": 13,
+			"uniqueId": 22,
 			"type": "Mesh",
 			"position": [
-				547.6099243164062,
-				515.6588745117188,
-				2336.07373046875
+				165.6344451904297,
+				-60,
+				450
 			],
 			"rotationQuaternion": [
 				0,
@@ -18,9 +18,9 @@
 				1
 			],
 			"scaling": [
-				100,
-				100,
-				100
+				20,
+				20,
+				20
 			],
 			"localMatrix": {
 				"0": 1,
@@ -82,7 +82,8 @@
 				"script": {
 					"name": "src/scenes/moon.ts"
 				},
-				"renderingGroupId": 0
+				"renderingGroupId": 0,
+				"doNotExport": false
 			},
 			"instances": [],
 			"animations": [],

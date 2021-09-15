@@ -2,7 +2,7 @@
 	"tags": null,
 	"diffuseTexture": {
 		"tags": null,
-		"url": "files/8k_saturn_ring_alpha.png",
+		"url": "files/NHMW-Anth-5454_Mladeč-Skull_low res_2_1.png",
 		"uOffset": 0,
 		"vOffset": 0,
 		"uScale": 1,
@@ -15,10 +15,10 @@
 		"wRotationCenter": 0.5,
 		"homogeneousRotationInUVTransform": false,
 		"isBlocking": true,
-		"name": "files/8k_saturn_ring_alpha.png",
+		"name": "files/NHMW-Anth-5454_Mladeč-Skull_low res_2_1.png",
 		"metadata": {
-			"editorName": "8k_saturn_ring_alpha.png",
-			"editorId": "a73be9f1-fcc5-4685-8ea9-4fccf2143bae",
+			"editorName": "NHMW-Anth-5454_Mladeč-Skull_low res_2_1.png",
+			"editorId": "db4b491d-54ae-4e62-86bb-219cadc51abd",
 			"ktx2CompressedTextures": {
 				"isUsingCompressedTexture": false
 			}
@@ -48,7 +48,7 @@
 	},
 	"emissiveTexture": {
 		"tags": null,
-		"url": "files/8k_saturn_clouds_blur.png",
+		"url": "files/NHMW-Anth-5454_Mladeč-Skull_low res_2_1.png",
 		"uOffset": 0,
 		"vOffset": 0,
 		"uScale": 1,
@@ -61,10 +61,56 @@
 		"wRotationCenter": 0.5,
 		"homogeneousRotationInUVTransform": false,
 		"isBlocking": true,
-		"name": "files/8k_saturn_clouds_blur.png",
+		"name": "files/NHMW-Anth-5454_Mladeč-Skull_low res_2_1.png",
 		"metadata": {
-			"editorName": "8k_saturn_clouds_blur.png",
-			"editorId": "0e5ac369-43cd-4407-baed-17e250dabe70",
+			"editorName": "NHMW-Anth-5454_Mladeč-Skull_low res_2_1.png",
+			"editorId": "db4b491d-54ae-4e62-86bb-219cadc51abd",
+			"ktx2CompressedTextures": {
+				"isUsingCompressedTexture": false
+			}
+		},
+		"hasAlpha": false,
+		"getAlphaFromRGB": false,
+		"level": 1,
+		"coordinatesIndex": 0,
+		"coordinatesMode": 0,
+		"wrapU": 1,
+		"wrapV": 1,
+		"wrapR": 1,
+		"anisotropicFilteringLevel": 4,
+		"isCube": false,
+		"is3D": false,
+		"is2DArray": false,
+		"gammaSpace": true,
+		"invertZ": false,
+		"lodLevelInAlpha": false,
+		"lodGenerationOffset": 0,
+		"lodGenerationScale": 0,
+		"linearSpecularLOD": false,
+		"isRenderTarget": false,
+		"animations": [],
+		"invertY": true,
+		"samplingMode": 3
+	},
+	"lightmapTexture": {
+		"tags": null,
+		"url": "files/NHMW-Anth-5454_Mladeč-Skull_low res_2_1.png",
+		"uOffset": 0,
+		"vOffset": 0,
+		"uScale": 1,
+		"vScale": 1,
+		"uAng": 0,
+		"vAng": 0,
+		"wAng": 0,
+		"uRotationCenter": 0.5,
+		"vRotationCenter": 0.5,
+		"wRotationCenter": 0.5,
+		"homogeneousRotationInUVTransform": false,
+		"isBlocking": true,
+		"name": "files/NHMW-Anth-5454_Mladeč-Skull_low res_2_1.png",
+		"metadata": {
+			"editorName": "NHMW-Anth-5454_Mladeč-Skull_low res_2_1.png",
+			"editorId": "db4b491d-54ae-4e62-86bb-219cadc51abd",
 			"ktx2CompressedTextures": {
 				"isUsingCompressedTexture": false
 			}
@@ -93,26 +139,26 @@
 		"samplingMode": 3
 	},
 	"ambient": [
-		0.5879999995231628,
-		0.5879999995231628,
-		0.5879999995231628
-	],
-	"diffuse": [
-		0.5879999995231628,
-		0.5879999995231628,
-		0.5879999995231628
-	],
-	"specular": [
 		0,
 		0,
 		0
+	],
+	"diffuse": [
+		1,
+		1,
+		1
+	],
+	"specular": [
+		1,
+		1,
+		1
 	],
 	"emissive": [
 		0,
 		0,
 		0
 	],
-	"specularPower": 2,
+	"specularPower": 64,
 	"useAlphaFromDiffuseTexture": false,
 	"useEmissiveAsIllumination": false,
 	"linkEmissiveWithDiffuse": false,
@@ -122,7 +168,7 @@
 	"useObjectSpaceNormalMap": false,
 	"useParallax": false,
 	"useParallaxOcclusion": false,
-	"parallaxScaleBias": 0.05,
+	"parallaxScaleBias": 0,
 	"roughness": 0,
 	"indexOfRefraction": 0.98,
 	"invertRefractionY": true,
@@ -130,17 +176,17 @@
 	"useLightmapAsShadowmap": false,
 	"useReflectionFresnelFromSpecular": false,
 	"useGlossinessFromSpecularMapAlpha": false,
-	"maxSimultaneousLights": 4,
+	"maxSimultaneousLights": 6,
 	"invertNormalMapX": false,
 	"invertNormalMapY": false,
 	"twoSidedLighting": false,
-	"id": "21b47da9-9acf-44ce-b2f8-158ccfd62fd9",
-	"name": "ring",
+	"id": "c3665d2d-6a76-4707-a401-07754e883483",
+	"name": "bone",
 	"checkReadyOnEveryCall": false,
 	"checkReadyOnlyOnce": false,
 	"state": "",
 	"alpha": 1,
-	"backFaceCulling": false,
+	"backFaceCulling": true,
 	"sideOrientation": 1,
 	"alphaMode": 2,
 	"_needDepthPrePass": false,

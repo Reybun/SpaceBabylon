@@ -1,4 +1,4 @@
-import { Mesh, Vector3 } from "@babylonjs/core";
+import { Mesh, ParticleSystem, SphereParticleEmitter,Texture } from "@babylonjs/core";
 
 /**
  * This represents a script that is attached to a node in the editor.
@@ -38,22 +38,21 @@ export default class MyScript extends Mesh {
      * Called on the scene starts.
      */
     public onStart(): void {
-        // ...
+        const particleSystem = new ParticleSystem("particles", 50, this.getScene());
+        particleSystem.particleEmitterType = new SphereParticleEmitter(100);
+        particleSystem.emitter = this.position;
+        particleSystem.particleTexture = new Texture("scenes/scene/files/Rune2.png", this.getScene());
+        //particleSystem.targetStopDuration = 3;
+        particleSystem.minSize = 0.1;
+        particleSystem.updateSpeed = 0.03;
+        particleSystem.maxSize = 1;
+        particleSystem.start();
     }
 
-    private _time = 0;
     /**
      * Called each frame.
      */
     public onUpdate(): void {
-        this.rotate(new Vector3(1, 1 ,1), 0.01 * this.getScene().getAnimationRatio());
-        this._time += this.getEngine().getDeltaTime() * 0.0005;
-        let newX = Math.cos(this._time) * 1700;
-        console.log(newX);
-        //debugger;
-        this.position.x = newX;
-        this.position.y = Math.sin(this._time) * 800;
-
     }
 
     /**

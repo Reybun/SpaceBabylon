@@ -12,8 +12,8 @@
 		1
 	],
 	"falloffType": 0,
-	"intensity": 3,
-	"range": 2000,
+	"intensity": 2.5,
+	"range": 300,
 	"intensityMode": 0,
 	"radius": 0,
 	"_renderPriority": 0,
@@ -22,9 +22,9 @@
 	"includeOnlyWithLayerMask": 0,
 	"lightmapMode": 0,
 	"position": [
-		0,
-		630.3023071289062,
-		-200
+		1.0191148519515991,
+		-6.596158981323242,
+		35.112796783447266
 	],
 	"name": "New Point Light",
 	"id": "116cc1e3-e350-4d41-83ad-109b43c6c00c",
@@ -36,6 +36,9 @@
 		"doNotExport": false
 	},
 	"type": 0,
+	"excludedMeshesIds": [
+		"6456a7f9-9851-45c2-bb60-06c0c0b91570"
+	],
 	"animations": [],
 	"ranges": []
 }

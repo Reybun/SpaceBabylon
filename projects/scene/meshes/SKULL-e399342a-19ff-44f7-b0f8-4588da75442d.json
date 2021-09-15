@@ -4,22 +4,22 @@
 		{
 			"name": "SKULL",
 			"id": "e399342a-19ff-44f7-b0f8-4588da75442d",
-			"uniqueId": 17,
+			"uniqueId": 20,
 			"type": "Mesh",
 			"position": [
-				32.554195404052734,
-				125.88875579833984,
-				853.115966796875
+				0,
+				-34,
+				50
 			],
 			"rotation": [
-				-0.8446098011228705,
-				-0.8019962254282393,
-				-0.864670671792733
+				-0.8446098109553966,
+				-0.8019962214289292,
+				-0.8646706682946151
 			],
 			"scaling": [
-				2.0000001651337893,
-				2.0000001774249934,
-				2.000000169697346
+				0.125,
+				0.13,
+				0.13
 			],
 			"localMatrix": {
 				"0": 1,
@@ -52,7 +52,7 @@
 			"isUnIndexed": false,
 			"geometryId": "0afefd07-4f5a-4aa1-934e-fd7433788288",
 			"subMeshes": null,
-			"materialId": "2a983d82-0f74-4e08-bfbe-41644ac32075",
+			"materialId": "c3665d2d-6a76-4707-a401-07754e883483",
 			"metadata": {
 				"basePoseMatrix": {
 					"0": 1,
@@ -79,7 +79,7 @@
 				},
 				"isPickable": true,
 				"script": {
-					"name": "None"
+					"name": "src/scenes/skull.ts"
 				},
 				"renderingGroupId": 0,
 				"doNotExport": false

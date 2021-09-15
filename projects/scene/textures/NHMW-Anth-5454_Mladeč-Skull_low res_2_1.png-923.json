@@ -1,6 +1,6 @@
 {
 	"tags": null,
-	"url": "files/DystopianWastelandDirt_ambientocclusion.png",
+	"url": "files/NHMW-Anth-5454_Mladeč-Skull_low res_2_1.png",
 	"uOffset": 0,
 	"vOffset": 0,
 	"uScale": 1,
@@ -13,10 +13,10 @@
 	"wRotationCenter": 0.5,
 	"homogeneousRotationInUVTransform": false,
 	"isBlocking": true,
-	"name": "files/DystopianWastelandDirt_ambientocclusion.png",
+	"name": "files/NHMW-Anth-5454_Mladeč-Skull_low res_2_1.png",
 	"metadata": {
-		"editorName": "DystopianWastelandDirt_ambientocclusion.png",
-		"editorId": "352fd1e9-6e68-4ed2-8efd-49be75b3a109",
+		"editorName": "NHMW-Anth-5454_Mladeč-Skull_low res_2_1.png",
+		"editorId": "db4b491d-54ae-4e62-86bb-219cadc51abd",
 		"ktx2CompressedTextures": {
 			"isUsingCompressedTexture": false
 		}

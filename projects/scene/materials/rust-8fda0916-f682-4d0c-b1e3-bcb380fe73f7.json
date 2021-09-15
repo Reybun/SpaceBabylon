@@ -1,54 +1,8 @@
 {
 	"tags": null,
-	"ambientTexture": {
-		"tags": null,
-		"url": "files/DystopianWastelandDirt_height.png",
-		"uOffset": 0,
-		"vOffset": 0,
-		"uScale": 1,
-		"vScale": 1,
-		"uAng": 0,
-		"vAng": 0,
-		"wAng": 0,
-		"uRotationCenter": 0.5,
-		"vRotationCenter": 0.5,
-		"wRotationCenter": 0.5,
-		"homogeneousRotationInUVTransform": false,
-		"isBlocking": true,
-		"name": "files/DystopianWastelandDirt_height.png",
-		"metadata": {
-			"editorName": "DystopianWastelandDirt_height.png",
-			"editorId": "8d96efe8-105e-41af-99de-fd9c41ecc256",
-			"ktx2CompressedTextures": {
-				"isUsingCompressedTexture": false
-			}
-		},
-		"hasAlpha": false,
-		"getAlphaFromRGB": false,
-		"level": 1,
-		"coordinatesIndex": 0,
-		"coordinatesMode": 0,
-		"wrapU": 1,
-		"wrapV": 1,
-		"wrapR": 1,
-		"anisotropicFilteringLevel": 4,
-		"isCube": false,
-		"is3D": false,
-		"is2DArray": false,
-		"gammaSpace": true,
-		"invertZ": false,
-		"lodLevelInAlpha": false,
-		"lodGenerationOffset": 0,
-		"lodGenerationScale": 0,
-		"linearSpecularLOD": false,
-		"isRenderTarget": false,
-		"animations": [],
-		"invertY": true,
-		"samplingMode": 3
-	},
 	"emissiveTexture": {
 		"tags": null,
-		"url": "files/DystopianWastelandDirt_emissive.png",
+		"url": "files/SolidRustedSteelRoughPlate_albedo.png",
 		"uOffset": 0,
 		"vOffset": 0,
 		"uScale": 1,
@@ -61,10 +15,10 @@
 		"wRotationCenter": 0.5,
 		"homogeneousRotationInUVTransform": false,
 		"isBlocking": true,
-		"name": "files/DystopianWastelandDirt_emissive.png",
+		"name": "files/SolidRustedSteelRoughPlate_albedo.png",
 		"metadata": {
-			"editorName": "DystopianWastelandDirt_emissive.png",
-			"editorId": "f0ec804b-4a71-4945-a02f-691e5c5f1d90",
+			"editorName": "SolidRustedSteelRoughPlate_albedo.png",
+			"editorId": "48c258e9-342c-4bbc-823c-8197a7d79101",
 			"ktx2CompressedTextures": {
 				"isUsingCompressedTexture": false
 			}
@@ -94,7 +48,7 @@
 	},
 	"specularTexture": {
 		"tags": null,
-		"url": "files/DystopianWastelandDirt_specular.png",
+		"url": "files/SolidRustedSteelRoughPlate_albedo.png",
 		"uOffset": 0,
 		"vOffset": 0,
 		"uScale": 1,
@@ -107,10 +61,10 @@
 		"wRotationCenter": 0.5,
 		"homogeneousRotationInUVTransform": false,
 		"isBlocking": true,
-		"name": "files/DystopianWastelandDirt_specular.png",
+		"name": "files/SolidRustedSteelRoughPlate_albedo.png",
 		"metadata": {
-			"editorName": "DystopianWastelandDirt_specular.png",
-			"editorId": "4cf518d4-c0bf-4fec-ac69-e93a9deafe7d",
+			"editorName": "SolidRustedSteelRoughPlate_albedo.png",
+			"editorId": "48c258e9-342c-4bbc-823c-8197a7d79101",
 			"ktx2CompressedTextures": {
 				"isUsingCompressedTexture": false
 			}
@@ -140,7 +94,7 @@
 	},
 	"bumpTexture": {
 		"tags": null,
-		"url": "files/DystopianWastelandDirt_normal.png",
+		"url": "files/SolidRustedSteelRoughPlate_normal.png",
 		"uOffset": 0,
 		"vOffset": 0,
 		"uScale": 1,
@@ -153,10 +107,10 @@
 		"wRotationCenter": 0.5,
 		"homogeneousRotationInUVTransform": false,
 		"isBlocking": true,
-		"name": "files/DystopianWastelandDirt_normal.png",
+		"name": "files/SolidRustedSteelRoughPlate_normal.png",
 		"metadata": {
-			"editorName": "DystopianWastelandDirt_normal.png",
-			"editorId": "53650dfb-6d06-4f23-9c08-08e9e9a3e09a",
+			"editorName": "SolidRustedSteelRoughPlate_normal.png",
+			"editorId": "ea110acd-d9f3-4e71-bb7e-e3263f804ae5",
 			"ktx2CompressedTextures": {
 				"isUsingCompressedTexture": false
 			}
@@ -226,8 +180,8 @@
 	"invertNormalMapX": false,
 	"invertNormalMapY": false,
 	"twoSidedLighting": false,
-	"id": "14b6c480-bace-4c42-923b-7109e3bdc2e8",
-	"name": "wasterlanbd",
+	"id": "8fda0916-f682-4d0c-b1e3-bcb380fe73f7",
+	"name": "rust",
 	"checkReadyOnEveryCall": false,
 	"checkReadyOnlyOnce": false,
 	"state": "",

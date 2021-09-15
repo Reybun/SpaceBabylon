@@ -107,5 +107,8 @@
 	"pointSize": 1,
 	"zOffset": 0,
 	"pointsCloud": false,
-	"fillMode": 0
+	"fillMode": 0,
+	"metadata": {
+		"isLocked": false
+	}
 }

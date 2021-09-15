@@ -1,4 +1,4 @@
-import { Mesh, Vector3 } from "@babylonjs/core";
+import { Vector3, Mesh, Axis } from "@babylonjs/core";
 
 /**
  * This represents a script that is attached to a node in the editor.
@@ -41,19 +41,11 @@ export default class MyScript extends Mesh {
         // ...
     }
 
-    private _time = 0;
     /**
      * Called each frame.
      */
     public onUpdate(): void {
-        this.rotate(new Vector3(1, 1 ,1), 0.01 * this.getScene().getAnimationRatio());
-        this._time += this.getEngine().getDeltaTime() * 0.0005;
-        let newX = Math.cos(this._time) * 1700;
-        console.log(newX);
-        //debugger;
-        this.position.x = newX;
-        this.position.y = Math.sin(this._time) * 800;
-
+        this.rotate( Axis.Z, -0.005 * this.getScene().getAnimationRatio());
     }
 
     /**

@@ -4,6 +4,8 @@ import { ScriptMap } from "./tools";
  */
 export interface ISceneScriptMap extends ScriptMap {
     "src/scenes/moon.ts": any;
+    "src/scenes/skull.ts": any;
+    "src/scenes/spin.ts": any;
 }
 /**
  * Defines the map of all available scripts in the project.

@@ -4,12 +4,12 @@
 		{
 			"name": "Saturn Clouds",
 			"id": "5390d5c8-3391-4f8c-826e-ea72e96484ba",
-			"uniqueId": 14,
+			"uniqueId": 13,
 			"type": "Mesh",
 			"position": [
-				-70,
-				615,
-				1111
+				90,
+				100,
+				200
 			],
 			"rotationQuaternion": [
 				0.002666924767135315,
@@ -18,9 +18,9 @@
 				0.9616459971597145
 			],
 			"scaling": [
-				10.999998606161178,
-				11.000000307939128,
-				10.999995125926112
+				1.2,
+				1.2,
+				1.2
 			],
 			"localMatrix": {
 				"0": 1,
@@ -82,7 +82,8 @@
 				"script": {
 					"name": "None"
 				},
-				"renderingGroupId": 0
+				"renderingGroupId": 0,
+				"doNotExport": false
 			},
 			"instances": [],
 			"animations": [],

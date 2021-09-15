@@ -1,6 +1,6 @@
 {
 	"tags": null,
-	"url": "files/8k_sun.jpg",
+	"url": "files/Runes1.png",
 	"uOffset": 0,
 	"vOffset": 0,
 	"uScale": 1,
@@ -13,10 +13,10 @@
 	"wRotationCenter": 0.5,
 	"homogeneousRotationInUVTransform": false,
 	"isBlocking": true,
-	"name": "files/8k_sun.jpg",
+	"name": "files/Runes1.png",
 	"metadata": {
-		"editorName": "8k_sun.jpg",
-		"editorId": "2a1cee60-0e7c-476c-bf04-7e75df34d616",
+		"editorName": "Runes1.png",
+		"editorId": "2921bcf6-fc33-4805-8c66-8880cb1fd55a",
 		"ktx2CompressedTextures": {
 			"isUsingCompressedTexture": false
 		}

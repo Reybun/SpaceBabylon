@@ -18,10 +18,20 @@
 		"DystopianWastelandDirt_height.png",
 		"DystopianWastelandDirt_normal.png",
 		"DystopianWastelandDirt_opacity.png",
-		"DystopianWastelandDirt_specular.png"
+		"DystopianWastelandDirt_specular.png",
+		"SolidRustedSteelRoughPlate_albedo.png",
+		"SolidRustedSteelRoughPlate_ambientocclusion.png",
+		"SolidRustedSteelRoughPlate_emissive.png",
+		"SolidRustedSteelRoughPlate_height.png",
+		"SolidRustedSteelRoughPlate_normal.png",
+		"SolidRustedSteelRoughPlate_opacity.png",
+		"SolidRustedSteelRoughPlate_specular.png",
+		"smoke.png",
+		"Rune2.png",
+		"Runes1.png"
 	],
 	"cameras": [
-		"camera-05e93a47-ec25-41ad-a1df-16f279c32246.json"
+		"New Free Camera-893f2e14-1c12-4654-8a20-a91afb4fd1a3.json"
 	],
 	"materials": [
 		{
@@ -53,10 +63,7 @@
 			"isMultiMaterial": false
 		},
 		{
-			"bindedMeshes": [
-				"441d25a7-d9c2-4c32-9e94-8129a0cff4cc",
-				"e399342a-19ff-44f7-b0f8-4588da75442d"
-			],
+			"bindedMeshes": [],
 			"json": "moon2-2a983d82-0f74-4e08-bfbe-41644ac32075.json",
 			"isMultiMaterial": false
 		},
@@ -69,47 +76,9 @@
 		},
 		{
 			"bindedMeshes": [
-				"709e3ee1-7378-48d2-9fe0-c5e4298d218f"
+				"441d25a7-d9c2-4c32-9e94-8129a0cff4cc"
 			],
-			"json": "Material!Ground-f671e442-65e3-469a-93f4-4b2e3ab89d02.json",
-			"isMultiMaterial": false
-		},
-		{
-			"bindedMeshes": [],
-			"json": "sky-8061af8b-2e91-4877-85fa-cc21deb99cf9.json",
-			"isMultiMaterial": false
-		},
-		{
-			"bindedMeshes": [
-				"1f3f5a2a-6530-4a2f-b1e6-35b7f94c6e35"
-			],
-			"json": "shadow-71acc804-66c0-41ee-a87a-685e34c0385b.json",
-			"isMultiMaterial": false
-		},
-		{
-			"bindedMeshes": [
-				"b924e17b-f47d-4893-9a02-0b252fac7568"
-			],
-			"json": "astro-bag-29764012-cf1c-4348-b297-af51d7aa6c1e.json",
-			"isMultiMaterial": false
-		},
-		{
-			"bindedMeshes": [],
-			"json": "wasterlanbd-14b6c480-bace-4c42-923b-7109e3bdc2e8.json",
-			"isMultiMaterial": false
-		},
-		{
-			"bindedMeshes": [
-				"4dfac285-4b2a-4ced-9339-0e467a808a0b"
-			],
-			"json": "Material!HelmetGlass-260a33c5-8c35-4051-b884-d6b7e9010d0e.json",
-			"isMultiMaterial": false
-		},
-		{
-			"bindedMeshes": [
-				"a091b1ed-5561-4576-b5ea-c74ad8ceb679"
-			],
-			"json": "Material!Material-210eac1b-8ba7-4175-8903-cac419053e27.json",
+			"json": "rust-8fda0916-f682-4d0c-b1e3-bcb380fe73f7.json",
 			"isMultiMaterial": false
 		},
 		{
@@ -121,53 +90,97 @@
 		},
 		{
 			"bindedMeshes": [
+				"a091b1ed-5561-4576-b5ea-c74ad8ceb679"
+			],
+			"json": "Material!Material-210eac1b-8ba7-4175-8903-cac419053e27.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"b924e17b-f47d-4893-9a02-0b252fac7568"
+			],
+			"json": "astro-bag-29764012-cf1c-4348-b297-af51d7aa6c1e.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"1f3f5a2a-6530-4a2f-b1e6-35b7f94c6e35"
+			],
+			"json": "shadow-71acc804-66c0-41ee-a87a-685e34c0385b.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"709e3ee1-7378-48d2-9fe0-c5e4298d218f"
+			],
+			"json": "Material!Ground-f671e442-65e3-469a-93f4-4b2e3ab89d02.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
 				"6456a7f9-9851-45c2-bb60-06c0c0b91570"
 			],
 			"json": "Material!Grass-3b869aab-e0f8-4523-a91e-f3937b42c970.json",
 			"isMultiMaterial": false
 		},
 		{
-			"bindedMeshes": [],
-			"json": "ground-44ce4d7a-5718-4025-a141-272ee6387673.json",
+			"bindedMeshes": [
+				"e399342a-19ff-44f7-b0f8-4588da75442d"
+			],
+			"json": "bone-c3665d2d-6a76-4707-a401-07754e883483.json",
+			"isMultiMaterial": false
+		},
+		{
+			"bindedMeshes": [
+				"4dfac285-4b2a-4ced-9339-0e467a808a0b"
+			],
+			"json": "Material!HelmetGlass-260a33c5-8c35-4051-b884-d6b7e9010d0e.json",
 			"isMultiMaterial": false
 		}
 	],
 	"textures": [
-		"space2.jpg-40.json",
-		"8k_saturn.jpg-38.json",
-		"8k_saturn_ring_alpha.png-43.json",
-		"space.jpg-41.json",
+		"space2.jpg-42.json",
+		"space.jpg-43.json",
 		"8k_saturn_clouds_blur.png-45.json",
-		"DystopianWastelandDirt_albedo.png-47.json",
-		"Bump_2K.png-58.json",
-		"Astronaut_Body.png-52.json",
-		"DystopianWastelandDirt_normal.png-48.json",
-		"NHMW-Anth-5454_Mladeč-Skull_low res_2_1.png-50.json",
-		"Grass.png-54.json",
-		"Diffuse_2K.png-57.json",
-		"DystopianWastelandDirt_height.png-64.json",
-		"Astronaut_Misc.png-62.json",
-		"DystopianWastelandDirt_emissive.png-65.json",
-		"DystopianWastelandDirt_specular.png-66.json",
-		"8k_sun.jpg-70.json",
-		"DystopianWastelandDirt_opacity.png-69.json",
-		"DystopianWastelandDirt_ambientocclusion.png-71.json"
+		"8k_saturn.jpg-40.json",
+		"8k_saturn_ring_alpha.png-47.json",
+		"Astronaut_Body.png-54.json",
+		"DystopianWastelandDirt_albedo.png-51.json",
+		"SolidRustedSteelRoughPlate_albedo.png-58.json",
+		"SolidRustedSteelRoughPlate_normal.png-59.json",
+		"DystopianWastelandDirt_emissive.png-68.json",
+		"DystopianWastelandDirt_normal.png-52.json",
+		"DystopianWastelandDirt_height.png-69.json",
+		"Bump_2K.png-65.json",
+		"DystopianWastelandDirt_specular.png-70.json",
+		"Diffuse_2K.png-64.json",
+		"Astronaut_Misc.png-61.json",
+		"Flare.png-71.json",
+		"smoke.png-72.json",
+		"Grass.png-56.json",
+		"Rune2.png-75.json",
+		"Flare.png-73.json",
+		"Flare.png-98.json",
+		"Runes1.png-74.json",
+		"NHMW-Anth-5454_Mladeč-Skull_low res_2_1.png-923.json",
+		"NHMW-Anth-5454_Mladeč-Skull_low res_2_1.png-49.json"
 	],
 	"meshes": [
-		"Saturn Rings-8d4548da-18bb-4c5f-a74c-ec9e6b80b5e8.json",
-		"Sky-bb3c9378-d7f2-46b5-b470-f5dff916ccd7.json",
-		"Moon-441d25a7-d9c2-4c32-9e94-8129a0cff4cc.json",
-		"shadow-1f3f5a2a-6530-4a2f-b1e6-35b7f94c6e35.json",
-		"Moon2-6800218a-2afb-494b-a02b-bfe9aa95c287.json",
+		"New Particle System-91babedc-0c16-4d25-b048-0ef2174edcf4.json",
 		"Ground-709e3ee1-7378-48d2-9fe0-c5e4298d218f.json",
-		"Saturn-78908960-e0b1-4aa9-84a5-cd3fc2c19a6e.json",
-		"astro-glass-4dfac285-4b2a-4ced-9339-0e467a808a0b.json",
-		"astro-bag-b924e17b-f47d-4893-9a02-0b252fac7568.json",
-		"astro-legs-11480479-a047-4a08-b5a6-29854b3bc096.json",
-		"SKULL-e399342a-19ff-44f7-b0f8-4588da75442d.json",
+		"Sky-bb3c9378-d7f2-46b5-b470-f5dff916ccd7.json",
 		"Saturn Clouds-5390d5c8-3391-4f8c-826e-ea72e96484ba.json",
-		"astro-body-a091b1ed-5561-4576-b5ea-c74ad8ceb679.json",
-		"Model!Plane.001-6456a7f9-9851-45c2-bb60-06c0c0b91570.json"
+		"Moon-441d25a7-d9c2-4c32-9e94-8129a0cff4cc.json",
+		"Saturn Rings-8d4548da-18bb-4c5f-a74c-ec9e6b80b5e8.json",
+		"Model!Plane.001-6456a7f9-9851-45c2-bb60-06c0c0b91570.json",
+		"shadow-1f3f5a2a-6530-4a2f-b1e6-35b7f94c6e35.json",
+		"astro-bag-b924e17b-f47d-4893-9a02-0b252fac7568.json",
+		"astro-glass-4dfac285-4b2a-4ced-9339-0e467a808a0b.json",
+		"Moon2-6800218a-2afb-494b-a02b-bfe9aa95c287.json",
+		"Saturn-78908960-e0b1-4aa9-84a5-cd3fc2c19a6e.json",
+		"SKULL-e399342a-19ff-44f7-b0f8-4588da75442d.json",
+		"astro-legs-11480479-a047-4a08-b5a6-29854b3bc096.json",
+		"astro-body-a091b1ed-5561-4576-b5ea-c74ad8ceb679.json"
 	],
 	"transformNodes": [],
 	"particleSystems": [],
@@ -322,13 +335,13 @@
 	"project": {
 		"camera": {
 			"tags": "modified",
-			"alpha": -33.10762567940072,
-			"beta": 1.5576018681207515,
-			"radius": 290.03754900432904,
+			"alpha": null,
+			"beta": null,
+			"radius": null,
 			"target": [
-				238.5641217021731,
-				168.5642525630378,
-				-411.20259115231283
+				null,
+				null,
+				null
 			],
 			"inertialAlphaOffset": 0,
 			"inertialBetaOffset": 0,
@@ -358,9 +371,9 @@
 			],
 			"speed": 2,
 			"position": [
-				203.58617795998467,
-				172.39102997873857,
-				-699.0978482487394
+				null,
+				null,
+				null
 			],
 			"upVector": [
 				0,
@@ -423,7 +436,7 @@
 					"pinchPrecision": 12,
 					"pinchDeltaPercentage": 0,
 					"useNaturalPinchZoom": false,
-					"panningSensibility": 3.447829439439492,
+					"panningSensibility": null,
 					"multiTouchPanning": true,
 					"multiTouchPanAndZoom": true
 				}
